@@ -1,4 +1,4 @@
-Day 3 Design library cell using Magic Layout and ngspice characterization
+<h1>Day 3 Design library cell using Magic Layout and ngspice characterization</h1>
 1.	Spice deck
 Spice deck is the one which gives information regarding the connectivity of components.In other words we can call this as netlist.
 Component values
